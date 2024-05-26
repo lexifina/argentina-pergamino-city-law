@@ -1,0 +1,1 @@
+ARTICULO 1º. Adjudicar ad-referendum de la pertinente convalidación por parte del HONORABLE CONCEJO DELIBERANTE, al proveedor VIDAURRETA E. SAIC por la suma total de $ 17.713.200,00, la LICITACION PRIVADA Nº 03-2024, para la compra anual de resmas para la emisión de Tasas Municipales del año 2024, con el programa Rafam; de acuerdo a lo expuesto en el CONSIDERANDO.
