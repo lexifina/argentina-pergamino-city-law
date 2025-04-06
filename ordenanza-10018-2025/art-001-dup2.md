@@ -1,0 +1,1 @@
+Artículo 1º Declarar admisible la oferta presentada por ENTRE S.R.L. y excluir la oferta presentada por TERMINAL MULTIPROPOSITO S.A. por ser la misma INADMISIBLE, atento los motivos expuestos en los considerandos.
