@@ -1,0 +1,1 @@
+ARTICULO 1°: Declarar admisible la oferta presentada por INDUSTRIA TERMOPLÁSTICA PLASTRONG S.A.S, y excluir la oferta presentada por ROTOKING S.A por ser la misma INADMISIBLE, atento los motivos expuestos en los considerandos.
