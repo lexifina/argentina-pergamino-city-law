@@ -1,0 +1,1 @@
+Artículo 1º Adjudica AD REFERENDUM DE LA PERTINENTE CONVALIDACIÓN POR PARTE DEL HONORABLE CONCEJO DELIBERANTE, la Licitación Privada 61-2024, para Ia "ADQUISICIÓN DE JUEGOS PLAZA DAVILA", a la firma CRUCI S.R.L., por la suma de $ 44.820.646,68 de acuerdo a lo vertido en el considerando.
