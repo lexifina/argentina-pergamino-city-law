@@ -1,0 +1,1 @@
+Artículo 2º: Convalídese el Decreto DECTO-2025-241-E-PER-INT, con fecha martes 21 de Enero de 2025, Referencia: MODIFICA LICITACION PUBLICA Nº 51-2024, EXPTE. D-1457/2024, que en cuyo articulado establece lo siguiente:
