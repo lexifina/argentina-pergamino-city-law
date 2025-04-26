@@ -1,0 +1,1 @@
+Artículo 2: Convalídese el Decreto DECTO-2025-802-E-PER-INT con fecha Martes 11 de Marzo de 2025, Referencia: MODIFICA DECTO-2025-772-E-PER-INT, LICITACION PUBLICA Nº06/2025, EXPEDIENTE D-38-2025, que en cuyo articulado establece lo siguiente:

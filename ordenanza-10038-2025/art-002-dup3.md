@@ -1,0 +1,2 @@
+ARTICULO 2º: Regístrese, y elévese al HONORABLE CONCEJO DELIBERANTE, para la sanción de la Ordenanza respectiva; atribuyéndose al presente, carácter de muy atenta nota de remisión.
+A su retorno al Departamento Ejecutivo, vuelva a la Dirección de Gobierno; cumplido siga a la Dirección de Compras, para dar continuidad a la presente Licitación.
