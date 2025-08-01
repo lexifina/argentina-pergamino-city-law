@@ -1,0 +1,3 @@
+ARTICULO 1°. Modificar el decreto DECTO-2025-1054-E-PER-INT, en su ARTÍCULO 1°., que quedará redactado de la siguiente manera:
+"ARTICULO 1º. Adjudica AD REFERENDUM, de la pertinente convalidación, por parte del HONORABLE CONCEJO DELIBERTANTE, el CONCURSO DE PRECIOS 36-2025, para la CONTRATACIÓN DEL SERVICIO CORTE DE CESPED Y MANTENIMIENTO DE LAS PLAZAS: SARGENTO CABRAL, DELLA PAOLERA,
+EVA PERON, AV PERON E INGRESO MIGUEL CANE, de la Ciudad de Pergamino, que contemple la prestación desde el 01 de ABRIL de 2025 al 31 de DICIEMBRE de 2025, inclusive; con opción a prorroga por tres (3) meses más : al proveedor COOPERATIVA DE TRABAJO UNION DEL NORTE LIMITADA, en la suma total de $46.548.936,72, de acuerdo a lo vertido en el CONSIDERANDO."
