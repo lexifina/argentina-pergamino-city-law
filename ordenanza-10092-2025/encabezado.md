@@ -1,0 +1,34 @@
+Ordenanza Nº10092/2025
+Ordenanza Nº 10092/2025
+Pergamino, 31/07/2025
+Honorable Concejo Deliberante de Pergamino
+2025 - Año de la Reconstrucción de la Nación Argentina
+Ordenanza
+Número: ORDE-2025-97-E-PERHCD-HCD
+Pergamino, Jueves 31 de Julio de 2025
+Referencia: ORDENANZA 10092-25 EX-2610-25 DECOMISO-DONACION-COMPACTACION
+Señor
+Intendente Municipal
+D. JAVIER ARTURO MARTÍNEZ
+SU DESPACHO.-
+Cumplo en elevar a Ud. la normativa que este Honorable Cuerpo aprobó por mayoría, en la Décima Sesión Ordinaria, realizada el día 29 de Julio del año 2025, al considerar el EX-2025-2610-PERHCD-HCD D.E. ELEVA EX N-581-25 SECRETARIA DE SEGURIDAD - REF. DECRETO DE DECOMISO - donación y compactación del material decomisado. -
+Sancionándose la siguiente
+VISTO
+El EXPTE EX-2610-2025 D.E. ELEVA EX N-581-25 SECRETARIA DE SEGURIDAD - REF. DECRETO DE DECOMISO - DONACIÓN Y COMPACTACIÓN DEL MATERIAL DECOMISADO
+CONSIDERANDO
+Que se promueve -por parte del Secretario de Seguridad- un requerimiento para proceder al decomiso de motovehículos y rodados retenidos a disposición de la Municipalidad de Pergamino, para su posterior compactación.
+Que obra listado detallado de las motocicletas y vehículos automotores retenidos y depositados a disposición de este municipio, sobre los cuales se solicita se dicte el decomiso de cada uno de ellos a favor de esta Municipalidad.
+Que obra informe del área municipal Gestión Ambiental.
+Que, por último, previo a emitir el presente acto administrativo, se requirió dictamen legal previo de la Asesoría Letrada Municipal, en los términos del art. 57 de la Ordenanza General Nro. 267/80, solicitándose específicamente dictamine: i) sobre la potestad legal de este municipio de proceder al decomiso y posterior compactación de los motovehículos y vehículos automotores retenidos a disposición y guarda de esta municipalidad, detallados en el listado obrante; y ii) sobre la posibilidad de ceder dichos bienes decomisados a unas instituciones de bien público local, para compactar en el marco de dicho programa nacional.
+Que obra el Dictamen Nro. 86/25 de la Asesoría Letrada Municipal.
+Que en actuaciones precedentes, se ha llevado a cabo dicho procedimiento conforme lo establecido por la Ley Orgánica Municipal, en su art. 108 inc. 5, que se subsume lícitamente en las atribuciones y deberes que la ley acuerda al Departamento Ejecutivo.
+En el caso, y para reforzar aún más el procedimiento a llevarse a cabo, luce informe de la Dirección de Gestión Ambiental, el que en su parte pertinente reza: "… que los automotores eventualmente depositados en estos predios a cielo abierto, con el paso del tiempo, y conforme a las características físicas... terminan generando residuos contaminantes, los que en muchos casos son considerados altamente nocivos, y que atentan contra los ecosistemas zonales y aledaños existentes en las proximidades, a la vez que ésta peligrosidad se potencia..... el fin que se persigue, además de la prevención del medio ambiente, es el cuidado de la salud de la población quien es la que termina siendo la verdadera víctima de los efectos de la contaminación ambiental que general los vehículos abandonados... esta Dirección de Gestión Ambiental---entiende y coincide en la valoración de la compactación de dichos vehículos y moto vehículos observados, como mejor opción para una solución definitiva."
+Finalmente, la práctica indica que los vehículos secuestrados por un plazo mayor de seis meses difícilmente sean reclamados por sus titulares, quedando indefinidamente en calidad de secuestrados, generando otra desventaja de gravedad a lo ya dicho, como son las cuestiones de seguridad, favoreciendo la comisión de ilícitos, lo que perjudica patrimonialmente a la administración pública.
+Corresponde poner de resalto que el decomiso que se busca a través del presente corresponde a vehículos cuya fecha de retención es igual o anterior al día 31 de diciembre de 2024.
+Que por todo expuesto, la Asesoría estima viable proceder conforme lo solicitado por el Secretario de Seguridad, haciendo lugar en primer término al decomiso de los vehículos individualizados conforme la normativa que contempla la L.O.M. y su posterior compactación.
+Que por otro lado, los bienes decomisados es viable que sean cedidos a las Instituciones de bien público elegidas, en el caso la donación en partes iguales del material decomisado a cuatro (4) entidades a saber: TALLER PROTEGIDO PERGAMINO (CUIT 30-61023930-3), SAN VICENTE DE PAUL (CUIT 30- 66676627-6), ASOCIACIÓN INTEGRAL ESPERANZA PARA EL DISCAPACITADO MOTOR SEVERO (CUIT 30-71046282-4) y SOCIEDAD DAMAS DE CARIDAD DEL HOGAR DE JESÚS (CUIT 30-53164243-7), siempre y cuando dicho acto administrativo de donación sea autorizado por el Honorable Concejo Deliberante. Asimismo, en la donación correspondiente, se deberá imponer el cargo a las entidades que aceptan la donación, de proceder a la compactación de la totalidad de los vehículos recibidos sin excepción, a través de la empresa de su elección, siendo las entidades las únicas responsables de su contratación.
+Que frente a este cuadro, todo lo solicitado se subsume lícitamente en las atribuciones y deberes que la ley acuerda a este Departamento Ejecutivo (art. 108, inc. 5, de la L.O.M.), de forma tal que mediante este Departamento Ejecutivo (art. 108, inc. 5, de la L.O.M.), y mediante este decreto se pretende resguardar intereses superiores y colectivos en beneficio de toda la comunidad, de modo que - a través de tareas de decomiso de motovehículos y vehículos automotores o rodados bajo la guarda de este Municipio, abandonados literalmente por sus titulares y/o responsables- se evita incumplir innumerables ordenanzas municipales que procuran el cuidado de medio ambiente, así como normativas provinciales, nacionales y supranacionales vigentes también con el propósito de cuidar el medio ambiente y la salud de la población. En efecto, nuestra Carta Magna, en una interpretación dinámica de sus postulados, reconoce el derecho de todo ser humano que habite suelo argentino a un nivel mínimo de calidad de vida, el que no se puede encontrar sino es en el marco de un medio ambiente sano, lo que obliga a tomar todas las medidas tendientes a preservarlo y protegerlo.
+Que bajo estos parámetros, es costumbre local disponer -a través del Departamento Ejecutivo-, y en orden a los fundamentos expuestos, el decomiso de vehículos y motovehículos retenidos a disposición y bajo guarda de este municipio que no han sido reclamados por sus dueños y/o responsables y/o interesados en un tiempo razonable (más de un año de retención sin reclamo alguno).
+POR LO EXPUESTO
+El Honorable Concejo Deliberante, en la Décima Sesión Ordinaria, realizada el 29 de julio de 2025, al poner en consideración el expediente arriba indicado, aprobó por mayoría, la siguiente:
+ORDENANZA
