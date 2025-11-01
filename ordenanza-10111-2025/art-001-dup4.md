@@ -1,0 +1,1 @@
+ARTÍCULO 1°: Adjudicar AD-REFERENDUM DE LA PERTINENTE CONVALIDACIÓN POR PARTE DEL HONORABLE CONCEJO DELIBERANTE, la Licitación Privada N° 38-2025, para la OBRA: MUSEO HEROES DE MALVINAS, al proveedor: BUDOWA SA, en la suma total de $ 65.352.375,00, de acuerdo a lo vertido en el CONSIDERANDO.

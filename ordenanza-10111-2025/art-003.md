@@ -1,0 +1,1 @@
+ARTÍCULO 3°: Regístrese, y gírese el presente a la DIRECCIÓN DE COMPRAS, a los fines procedentes, y donde, se realizará una copia completa, y foliada de todo e l expediente, que luego, se girará a la DIRECCION ADMINISTRATIVA D E GOBIERNO, para la creación del ALCANCE N° 1. Cumplido, el exp. original, siga a la ASESORÍA LETRADA, CONTADURÍA, y TESORERÍA MUNICIPAL.

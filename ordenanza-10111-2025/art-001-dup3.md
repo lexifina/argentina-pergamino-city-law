@@ -1,0 +1,1 @@
+Artículo 1: Convalídese el DECRETO DECTO-2025-2822-E-PER-INT, de fecha viernes 19 de septiembre de 2025, Referencia: Adjudica AD-REFERENDUM DE LA PERTINENTE CONVALIDACIÓN POR PARTE DEL HONORABLE CONCEJO DELIBERANTE LA LICITACION PRIVADA Nº 38-2025, EXPEDIENTE D-695-2025, que en cuyo articulado establece lo siguiente:

@@ -1,0 +1,1 @@
+ARTICULO 2°: El gasto incidirá en la siguiente partida presupuestaria: JURISDICCION 1110118000 - FUENTE DE FINANCIAMIENTO 110 - PROGRAMA 66.56.00 – PARTIDA 4.2.2.0.
