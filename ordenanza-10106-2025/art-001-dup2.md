@@ -1,0 +1,1 @@
+ARTICULO 1°: Disponer, previa autorización del Honorable Concejo Deliberante, la donación de manera gratuita de seis (6) equinos decomisados por el Juzgado Municipal de Faltas, conforme la individualización obrante en el expediente, a la entidad “ASOCIACION CIVIL RESCATE EQUINO EN SAN NICOLAS” (CUIT 33-71568163-9), de conformidad con lo dispuesto por la Ordenanza 9517/2022.-
