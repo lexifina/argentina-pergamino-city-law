@@ -1,0 +1,1 @@
+ARTÍCULO 3º: Establézcase, según la prórroga mencionada en el Artículo 1 de la presente Ordenanza, que los vehículos habilitados modelos 2018 en adelante, estarán autorizados durante el plazo establecido, y de manera excepcional, a prestar Servicio de Taxi en viajes de corta, media y larga distancia.-

@@ -1,0 +1,1 @@
+ARTÍCULO 4º: Dispóngase que para acceder al beneficio de la prórroga planteada en el Artículo 1 de la presente Ordenanza, la unidad afectada al Servicio de Taxi debe encontrarse en condiciones, cumpliendo con los controles vehiculares y demás requisitos exigidos por la Ordenanza N° 7624/12.-

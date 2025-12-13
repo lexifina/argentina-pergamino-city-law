@@ -1,0 +1,1 @@
+ARTÍCULO 2º: Establézcase, según la prórroga mencionada en el Artículo 1 de la presente Ordenanza, que los vehículos modelo 2015, 2016 y 2017 habilitados, estarán autorizados de manera extraordinaria solo para prestar Servicio de Taxi dentro del radio urbano de la Ciudad de Pergamino.-

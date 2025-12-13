@@ -1,0 +1,1 @@
+ARTÍCULO 1º: Dispóngase, de manera excepcional una prórroga de 3 (tres) años en el plazo de autorización para circular a los vehículos habilitados para prestar Servicio de Taxi según la antigüedad (desde la fecha de fabricación), tal como lo expresa el Artículo 16 de la Ordenanza N° 7624/12.-
