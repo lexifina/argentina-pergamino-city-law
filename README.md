@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-151 ordinances so far, in force from 31 December 2023 to 25 October 2026, each as published in the Boletín Oficial Municipal de Pergamino, added in parts.
+224 ordinances so far, in force from 31 December 2023 to 25 October 2026, each as published in the Boletín Oficial Municipal de Pergamino, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -164,6 +164,80 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-10256-2026/` | Ordenanza 10256/2026: Créase el Programa Municipal de Integración Deportiva, destinado a promover el acceso de niños, niñas y adolescentes que participan de pro… | in force 8 October 2026 |
 | `ordenanza-10258-2026/` | Ordenanza 10258/2026: Convalídese el DECRETO DECTO -2026-2615-E-PER-INT de fecha viernes 4 de septiembre de 2026, Referencia: Adjudica AD-REFERENDUM CONVALIDACI… | in force 25 October 2026 |
 
+| `ordenanza-9836-2024/` | Ordenanza 9836/2024: Convalídase el Decreto DECTO-2024-121-E-PER-INT, del 11 de Enero de 2024, referido a la adjudicación, ad referéndum del HCD, de la Licitación Pública Nº 35-2023 sobre contratación servicio de barrido y limpieza de las ca | in force 21 March 2024 |
+| `ordenanza-9846-2024/` | Ordenanza 9846/2024: Otórguese la prórroga de la concesión para la explotación del servicio público de transporte interurbano de pasajeros línea Pergamino-Mariano Benítez- Manuel Ocampo- El Socorro del Partido de Pergamino, otorgada por Orde | in force 21 March 2024 |
+| `ordenanza-9859-2024/` | Ordenanza 9859/2024: Autorícese un incremento en la tarifa plana a partir de la puesta en vigencia de la presente Ordenanza, quedando el cuadro tarifario de la siguiente manera: | in force 21 March 2024 |
+| `ordenanza-9867-2024/` | Ordenanza 9867/2024: el Decreto DECTO-2024-671-E-PER-INT, del 16 de Febrero de 2024, y referido a la adjudicación, ad referéndum del HCD, de la LICITACION PRIVADA Nº06 -2024para la adquisición de 30.000 metros cúbicos de GNC, que en su artic | in force 5 May 2024 |
+| `ordenanza-9873-2024/` | Ordenanza 9873/2024: Los Vistos y Considerando forman parte de la presente.- | in force 5 May 2024 |
+| `ordenanza-9874-2024/` | Ordenanza 9874/2024: estado de emergencia declarado con los alcances y efectos de este decreto tendrá vigencia únicamente por el período establecido en el artículo 1° y podrá ser prorrogado a sola instancia del Departamento Ejecutivo o el Ór | in force 5 May 2024 |
+| `ordenanza-9875-2024/` | Ordenanza 9875/2024: Los Vistos y Considerando forman parte de la presente. | in force 5 May 2024 |
+| `ordenanza-9878-2024/` | Ordenanza 9878/2024: Convalídese el Decreto DECTO-2024-991-E-PER-INT, del 8 de Marzo del 2024, referido a ADJUDICA AD REFERENDUM LICITACION PUBLICA 04-2024 EXPEDIENTE O-1062-2023, correspondiente al Expte. EX-604-2024 D.E. Eleva Ex-O-1062-23 | in force 5 May 2024 |
+| `ordenanza-9868-2024/` | Ordenanza 9868/2024: Convalídase el Decreto DECTO-2024-357-E-PER-INT, del 26 de Enero de 2024, y referido a la adjudicación, ad referéndum del HCD, de la LICITACION PRIVADA Nº05 -2024referida a "CONTRATACIÓN DEL SERVICIO DE EMERGENCIAS, URGE | in force 26 May 2024 |
+| `ordenanza-9869-2024/` | Ordenanza 9869/2024: Solicítese al Departamento Ejecutivo que, a través del área que corresponda, asigne el nombre “República de Paraguay” a las 6 cuadras comprendidas entre las calles 11 de Septiembre y Belgrano, atravesando las manzanas 18 | in force 26 May 2024 |
+| `ordenanza-9871-2024/` | Ordenanza 9871/2024: Convalídase el Decreto DECTO-2024-1148-E-PER-INT, del 21 de Marzo de 2024, referido a la adjudicación, ad referéndum del HCD, de la Licitación Pública Nº 9-2024para la REPARACIÓN DE PAVIMENTOS RÍGIDOS 2024, el cual en su | in force 26 May 2024 |
+| `ordenanza-9872-2024/` | Ordenanza 9872/2024: Convalídase el Decreto DECTO-2024-1169-E-PER-INT, del 22 de Marzo de 2024, referido a la adjudicación, ad referéndum del HCD, de la Licitación Pública Nº 15-2024,a fin de ADQUIRIR NUEVE (9) BOMBAS SUMERGIBLES PARA PERFOR | in force 26 May 2024 |
+| `ordenanza-9880-2024/` | Ordenanza 9880/2024: Modifíquese el destino originariamente asignado al inmueble ubicado en la intersección de lascalles Bombero Esquivel y Deán Funes de esta ciudad de Pergamino, identificado catastralmente como:Circunscripción: 2 Sección: | in force 26 May 2024 |
+| `ordenanza-9882-2024/` | Ordenanza 9882/2024: Creación. Incorpórese dentro del Libro Segundo “Parte Especial” de la Ordenanza Fiscal vigente (Ordenanza N° 9820/23), el Título Vigésimo tercero bis “Contribución Obligatoria sobre la Valorización Inmobiliaria”, conteni | in force 26 May 2024 |
+| `ordenanza-9890-2024/` | Ordenanza 9890/2024: Convalídese el Decreto DECTO-2024-1309-E-PER-INT, del 10 de Abril del 2024, referido a ADJUDICAR AD REFERENDUM LICITACION PUBLICA 08-2024, el cual en su articulado establece lo siguiente: | in force 26 May 2024 |
+| `ordenanza-9893-2024/` | Ordenanza 9893/2024: Autorizar al Departamento Ejecutivo a la donación por partes iguales y de manera gratuita de los bienes decomisados, a las siguientes entidades: TALLER PROTEGIDO PERGAMINO (CUIT 30-61023930-3), SAN VICENTE DE PAUL (CUIT | in force 26 May 2024 |
+| `ordenanza-9894-2024/` | Ordenanza 9894/2024: Dispóngase un espacio exclusivo de ascenso y descenso para alumnos y docentes de ASOCIACIÓN PERGAMINO CULTURA INGLESA que concurren a dicha institución, sita en calle 25 de Mayo Nº 746 de la ciudad de Pergamino (que ocup | in force 26 May 2024 |
+| `ordenanza-9896-2024/` | Ordenanza 9896/2024: Convalidase el Decreto DECTO-2024-1026-E-PER-INT, del 12 de Marzo de 2024, referido a la adhesión al Programa Tarjeta YPF en ruta, el cual en su articulado establece lo siguiente: | in force 26 May 2024 |
+| `ordenanza-9897-2024/` | Ordenanza 9897/2024: el modelo de convenio entre MUNICIPALIDAD DE PERGAMINO, yelI NSTITUTONACIONALDE TECNOLOGIA AGROPECUARIA–INTA, que como ANEXOI | in force 26 May 2024 |
+| `ordenanza-9898-2024/` | Ordenanza 9898/2024: ACTUALICENSE los valores de Proyecto Solares II (Linotex Primera y Segunda etapa) incluyendo la Refinanciación de Cuotas Tierra del Proyecto "Solares II - Segunda Etapa" (Art. 2 - Ordenanza 9803/23); Proyecto Solares III | in force 3 July 2024 |
+| `ordenanza-9900-2024/` | Ordenanza 9900/2024: Convalídase el Decreto DECTO-2024-1621-E-PER-INT, del 29 de Abril de 2024, referido a la Licitación Privada 35-2024 adquisición de mercadería para comedores, instituciones municipales y dependencias comunitarias, el cual | in force 3 July 2024 |
+| `ordenanza-9901-2024/` | Ordenanza 9901/2024: 1: Dispóngase un espacio de reserva para carga y descarga de uso general, de 12 mts., del lado impar de numeración para estacionamiento de vehículos de los comercios de la zona comprendidos en calle Pasteur Nº 68, entre | in force 3 July 2024 |
+| `ordenanza-9902-2024/` | Ordenanza 9902/2024: Dispóngase que la Calle 25 de Mayo tenga un sentido único de circulación, entre Av. Jauretche y Ruta Nacional Nº 8, siendo el mismo de norte a sur. | in force 3 July 2024 |
+| `ordenanza-9905-2024/` | Ordenanza 9905/2024: el Decreto DECTO-2024-1734-E-PER-INT, del 13 de Mayo de 2024, referido a la Licitación Privada 31-2024 adquisición de Hormigón para la ejecución de cordones cunetas en SOLARES II – LINOTEX – PRIMERA ETAPA, el cual en su | in force 3 July 2024 |
+| `ordenanza-9906-2024/` | Ordenanza 9906/2024: el CONVENIO MARCO DE COOPERACIÓN ENTRE LA MUNICIPALIDAD DE PERGAMINO Y STREAMBE S.R.L., suscripto en fecha 19 de Marzo de 2024, que como ANEXO I forma parte de la presente, el cual tiene por objeto promover, difundir e i | in force 3 July 2024 |
+| `ordenanza-9907-2024/` | Ordenanza 9907/2024: los saldos excedidos de las partidas que a continuación se detallan correspondientes al ejercicio económico financiero2023 por la suma de pesos tres mil doscientos noventa y un millones quince mil seiscientos treinta y s | in force 3 July 2024 |
+| `ordenanza-9909-2024/` | Ordenanza 9909/2024: Otorgase Becas Artísticas por el término de 9, 2 y 1mes/s a los señores/as que se detallan y forman parte del ANEXO 1 del presente Proyecto de Ordenanza. | in force 3 July 2024 |
+| `ordenanza-9910-2024/` | Ordenanza 9910/2024: el, DECTO-2024-1642-E-PER-INTde fecha 30-04-2024, que modifica los decretos DECTO-2024-954-E-PER-INT y DECTO-2024-1372-E-PER-INT, el cual en su articulado establece: | in force 3 July 2024 |
+| `ordenanza-9911-2024/` | Ordenanza 9911/2024: Convalídese el DECTO-2024-1768-E-PER-INT dictado por el Departamento Ejecutivo en fecha 15-05-2024, el cual en su articulado establece: | in force 3 July 2024 |
+| `ordenanza-9913-2024/` | Ordenanza 9913/2024: APROBAR lo actuado por la Secretaría de Tierras y Vivienda, respecto a la adjudicación de las familias beneficiadas y la correspondiente ubicación de las mismas en los veinte terrenos que restaban del "Proyecto Mi Lote - | in force 3 July 2024 |
+| `ordenanza-9914-2024/` | Ordenanza 9914/2024: DERÓGUESE el ARTÍCULO 2° de la Ordenanza N° 9742/2023, el cual quedará redactado de la siguiente manera: | in force 3 July 2024 |
+| `ordenanza-9922-2024/` | Ordenanza 9922/2024: Adhiérase alaLeyN°14.449ysureglamentaciónaprobadapor Decreto N°1062/13, cuya Autoridad de Aplicación es el Ministerio de Infraestructura de la provincia de Buenos Aires. | in force 12 July 2024 |
+| `ordenanza-9924-2024/` | Ordenanza 9924/2024: OBJETIVO: | in force 12 July 2024 |
+| `ordenanza-9925-2024/` | Ordenanza 9925/2024: Convalídese el "Convenio tripartito de consentimiento para la venta de inmueble expropiado con afectación exclusiva a parque industrial", suscripto entre el Departamento Ejecutivo municipal y las firmas locales Antonio C | in force 12 July 2024 |
+| `ordenanza-9935-2024/` | Ordenanza 9935/2024: Establézcanse los sentidos de circulación sobre las calles que se mencionan según se detalla a continuación: | in force 23 August 2024 |
+| `ordenanza-9916-2024/` | Ordenanza 9916/2024: Convalídase el Decreto DECTO-2024-2031-E-PER-INT, del 06 de Junio de 2024, referido a la adjudicación, ad referéndum del HCD, de la Licitación Privada Nº 41-2024 sobre adquisición de bidones de agua de 20 litros, el cual | in force 1 September 2024 |
+| `ordenanza-9934-2024/` | Ordenanza 9934/2024: Convalídese el DECTO-2024-2285-E-PER-INT, Dictado por el Departamento ejecutivo en fecha lunes 8 de julio de 2024, sobre ADQUISICIÓN DE MATERIALES ELECTRICOS E INSUMOS, PARA LA EJECUCIÓN DEL PLAN DE REFUERZO Y EXTENSIÓN | in force 1 September 2024 |
+| `ordenanza-9942-2024/` | Ordenanza 9942/2024: el Decreto DECTO-2024-1800-E-PER-INT, con fecha el lunes 20 de mayo de 2024, Referencia: ADJUDICA CONCURSO DE PRECIOS N° 80-2024 – EXPEDIENTE K-415-2024, que en su articulado establece lo siguiente: | in force 1 September 2024 |
+| `ordenanza-9954-2024/` | Ordenanza 9954/2024: Establézcanse los sentidos de circulación sobre las calles que se mencionan según se detalla a continuación: | in force 22 October 2024 |
+| `ordenanza-9944-2024/` | Ordenanza 9944/2024: Reconocer de legítimo abono y autorizase el pago de la suma de $ 4.512.175.33 (Cuatro millones quinientos doce mil ciento setenta y cinco c/33), a favor de los agentes municipales, según detalle adjunto, en carácter de i | in force 31 October 2024 |
+| `ordenanza-9945-2024/` | Ordenanza 9945/2024: Adherir a la declaración de interés municipal dispuesta por el Departamento Ejecutivo mediante el/decreto DECTO-2024-2443-E-PER-INT. | in force 31 October 2024 |
+| `ordenanza-9946-2024/` | Ordenanza 9946/2024: Convalídese el Decreto DECTO-2024-2661-E-PER-INT, con fecha el lunes 5 de Agosto de 2024, referencia ADJUDICA AD REFERENDUM LICITACION PRIVADA 51-2024 EXPTE B-903-2024, | in force 31 October 2024 |
+| `ordenanza-9947-2024/` | Ordenanza 9947/2024: Facúltese al Departamento Ejecutivo a contraer con el Banco de la Provincia de Buenos Aires un empréstito de hasta la suma de pesos OCHOCIENTOS NOVENTA Y CUATRO millones ($ 894.000.000.-). | in force 31 October 2024 |
+| `ordenanza-9948-2024/` | Ordenanza 9948/2024: Facúltese al Departamento Ejecutivo a contraer con el Banco de la Provincia de Buenos Aires un empréstito de hasta la suma de pesos OCHOCIENTOS NOVENTA Y CUATRO millones ($ 894.000.000.-). | in force 31 October 2024 |
+| `ordenanza-9949-2024/` | Ordenanza 9949/2024: Disponer que calle Monteagudo tenga un único sentido de circulación, desde Intendente Laguía hasta Bv. Liniers siendo el mismo Norte-Sur.- | in force 31 October 2024 |
+| `ordenanza-9951-2024/` | Ordenanza 9951/2024: Deróguese la Ordenanza 9947/24.- | in force 31 October 2024 |
+| `ordenanza-9953-2024/` | Ordenanza 9953/2024: Se aprueba lo actuado por la Secretaría de Tierra y Viviendas, respecto a la venta de los terrenos del "Proyecto Solares Guerrico", ya asignados mediante sorteo correspondiente, destinados para vivienda única y de ocupac | in force 31 October 2024 |
+| `ordenanza-9955-2024/` | Ordenanza 9955/2024: Convalídese el Decreto DECTO-2024-3203-E-PER-INT, dictado por el Departamento Ejecutivo el día lunes 9 de Septiembre de 2024, referido a la AUTORIZACION DE VENTA DE EQUINOS DECOMISADOS, en cuyo articulado establece lo si | in force 31 October 2024 |
+| `ordenanza-9956-2024/` | Ordenanza 9956/2024: Dispóngase la actualización de la denominación de la Plazoleta ubicada en la intersección de Av. Juan D. Perón y Av. Jauretche en la Infraestructura de Datos Espaciales (IDE) y su correspondiente señalización, conforme l | in force 31 October 2024 |
+| `ordenanza-9958-2024/` | Ordenanza 9958/2024: Otórguese en donación a ESCUELA DE LA FAMILIA AGRICOLA – DIEGEP 4561, de la Localidad de Acevedo del Partido de Pergamino, un TV PHILCO de 29 pulgadas bajo el número de inventario: 4.3.5.040.- | in force 31 October 2024 |
+| `ordenanza-9959-2024/` | Ordenanza 9959/2024: Convalídese el Decreto DECTO-2024-3627-E-PER-INT, dictado por el Departamento Ejecutivo el día lunes 7 de octubre de 2024, referido a la AUTORIZACION DE VENTA DE EQUINOS DECOMISADOS, en cuyo articulado establece lo sigui | in force 31 October 2024 |
+| `ordenanza-9960-2024/` | Ordenanza 9960/2024: Convalídese el Decreto DECTO-2024-2071-E-PER-INT, con fecha martes 11 de Junio de 2024, Referencia: Adjudica Licitación Publica N° 26-2024, EXPEDIENTE: D-521-2024, que en cuyo articulado establece lo siguiente: | in force 31 October 2024 |
+| `ordenanza-9961-2024/` | Ordenanza 9961/2024: Autorizar al Departamento Ejecutivo a la donación por partes iguales y de manera gratuita de los bienes decomisados, a las siguientes entidades: TALLER PROTEGIDO PERGAMINO (CUIT 30-61023930-3), SAN VICENTE DE PAUL (CUIT | in force 31 October 2024 |
+| `ordenanza-9963-2024/` | Ordenanza 9963/2024: Convalídese el Decreto DECTO-2024-3719-E-PER-INT, dictado por el Departamento Ejecutivo el día lunes 17 de octubre de 2024, referido a la Licitación Publica 39/24 destinada al alojamiento de la delegación pergaminense de | in force 4 December 2024 |
+| `ordenanza-9964-2024/` | Ordenanza 9964/2024: Convalidar las Actuaciones Administrativas del EX-2464-2024 PERHCD-HCD D.E. eleva EX. N-735-24, por las situaciones descriptas en los Considerandos.- | in force 4 December 2024 |
+| `ordenanza-9965-2024/` | Ordenanza 9965/2024: Convalidar las Actuaciones Administrativas del EX-2024-3577-PERHCD-HCD D.E. ELEVA EXPTE. N-1213-24, por las situaciones descriptas en los Considerandos.- | in force 4 December 2024 |
+| `ordenanza-9966-2024/` | Ordenanza 9966/2024: Convalídese el Decreto DECTO-2024-3802-E-PER-INT, dictado por el Departamento Ejecutivo el día 25 de octubre de 2024, referido a la modificación del Artículo N° 1 del Decreto DECTO-2024-3627-E-PER-INT, en cuyo articulado | in force 4 December 2024 |
+| `ordenanza-9972-2023/` | Ordenanza 9972/2023: La publicidad y/o propaganda política y electoral en el Partido de Pergamino, deberá respetar los valores patrimoniales y de preservación, ecológica, arquitectónica y urbana. | in force 28 December 2024 |
+| `ordenanza-10001-2025/` | Ordenanza 10001/2025: Modifíquese el inciso a) del Artículo 37 del TITULO SEPTIMO: DE LAS INFRACCIONES A LAS OBLIGACIONES Y DEBERES, el cual quedará redactado de la siguiente forma: | in force 16 February 2025 |
+| `ordenanza-10002-2025/` | Ordenanza 10002/2025: Establézcase un plan de regularización de deudas a partir de la entrada en vigencia de la presente normativa y por el presente ejercicio fiscal, respecto de deudas, vencidas al momento del acogimiento, comunes en instanc | in force 16 February 2025 |
+| `ordenanza-10004-2025/` | Ordenanza 10004/2025: Autorizar al Departamento Ejecutivo a proseguir con la Obra, Concurso de precios Nº 215-2024, Expte D-1306-24 ALCANCE 1. Ref.: Construcción Anexo Reducto Fortificado, atento a que la misma excede el ejercicio 2024.- | in force 16 February 2025 |
+| `ordenanza-9992-2025/` | Ordenanza 9992/2025: GENERALIDADES. Todas las formas de uso que se proyecten en la vía pública o espacios públicos previos a su ejecución deberán ser sometidas a consideración de las dependencias municipales de competencia: | in force 6 April 2025 |
+| `ordenanza-10089-2025/` | Ordenanza 10089/2025: Convalídese el DECRETO DECTO-2025-2084-E-PER-INT, de fecha viernes 4 de julio de 2025, Referencia: Adjudica AD-REFERENDUM DE LA PERTINENTE CONVALIDACIÓN POR PARTE DEL HONORABLE CONCEJO DELIBERANTE CONCURSO DE PRECIOS Nº | in force 17 August 2025 |
+| `ordenanza-10104-2025/` | Ordenanza 10104/2025: Dispóngase una parcela en la Plaza San José de la ciudad de Pergamino, ubicada sobre la Av. de Mayo según el plano que se adjunta para el emplazamiento del “Espacio de la Diáspora Vasca”. | in force 24 October 2025 |
+| `ordenanza-10118-2025/` | Ordenanza 10118/2025: Modifíquese el Artículo 1º de la Ordenanza N° 9935/24 el que quedará redactado de la siguiente forma: | in force 13 December 2025 |
+| `ordenanza-10127-2025/` | Ordenanza 10127/2025: Modifíquese el artículo 2° de la Ordenanza N° 9692/23, el que queda redactado de la siguiente manera: “Artículo 2°. REQUISITOS. Podrán acceder a los beneficios reconocidos por el presente régimen las personas humanas o j | in force 13 December 2025 |
+| `ordenanza-10133-2025/` | Ordenanza 10133/2025: La circulación de vehículos solo puede efectuarse en calles, pasajes, caminos y avenidas abiertos al uso público por la Municipalidad de Pergamino, sobre las que deben cumplirse las normas de tránsito nacionales, provinc | in force 1 January 2026 |
+| `ordenanza-10139-2025/` | Ordenanza 10139/2025: Convalídese el DECRETO DECTO-2025-2929-E-PER-INT, de fecha lunes 29 de septiembre de 2025, referido a la LICITACION PUB 27/25 A LA FIRMА TUR LIFE S.A ALOJAMIENTO PARTICIPANTE DE PERG JUEGOS BONAERENSES EXРTЕ E- 734/25, q | in force 1 January 2026 |
+| `ordenanza-10142-2025/` | Ordenanza 10142/2025: Dispóngase la obligatoriedad de que cada propietario, usufructuario o poseedor de inmueble que cuente con edificación de cualquier tipo, proceda a identificar cada uno de los mismos con el número de puerta correspondient | in force 29 January 2026 |
+| `ordenanza-10166-2026/` | Ordenanza 10166/2026: Convalídase el Decreto DECTO-2026-173-E-PER-INT, del 20 de Enero de 2026, por el cual se autoriza la donación de tres equinos a la Asociación Civil Rescate Equino, cuyo texto es el siguiente: | in force 15 March 2026 |
+| `ordenanza-10186-2026/` | Ordenanza 10186/2026: Establézcanse sentido único de circulación en dirección Norte-Sur sobre calle Urquiza, en el tramo comprendido entre calles Larrea y Biscayart de la Ciudad de Pergamino. | in force 29 April 2026 |
+| `ordenanza-10200-2026/` | Ordenanza 10200/2026: Convalídese el DECRETO DECTO-2026-1008-E-PER-INT, de fecha viernes 27 de marzo de 2026, Referencia: Adjudica AD REFERENDUM – LICITACION PUBLICA Nº 09-2026 CONTRATACION DEL SERVICIO DE LIMPIEZA Y MANTENIMIENTO EN LA TERMI | in force 19 June 2026 |
+| `ordenanza-10209-2026/` | Ordenanza 10209/2026: Convalídese el DECRETO DECTO-2026-1772-E-PER-INT, de fecha viernes 29 de mayo de 2026, Referencia: Adjudica AD REFERENDUM – LICITACION PRIVADA Nº 32-2026, par LA ADQUISICION DE MEDICAMENTOS VARIOS PARA ABASTECIMIENTO DE | in force 11 July 2026 |
+
 ## Source
 
 Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Pergamino, <https://sibom.slyt.gba.gob.ar/cities/95>. SIBOM is the platform on which each municipality of the Province of Buenos Aires makes its Boletín Oficial Municipal (Ley 14.491). For each bulletin it lists the ordinances it published; each ordinance has its own page with the text as published (HTML). The site states no terms restricting reuse.
@@ -190,62 +264,16 @@ This is not an official publication. The binding text is the one published in th
 
 ## Left out
 
-55 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Pergamino page gives no article text to read:
+9 listed publications remain outside this record. The ordinance text is in an annex or the same number already has a publication in the record.
 
 | Ordinance | Published | Why | Page |
 | --- | --- | --- | --- |
-| Ordenanza 9836-24 | 12 March 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10276/contents/2023825> |
-| Ordenanza 9846-24 | 12 March 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10276/contents/2023830> |
-| Ordenanza 9867-2024 | 26 April 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10526/contents/2045982> |
-| Ordenanza 9873-2024 | 26 April 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10526/contents/2045988> |
-| Ordenanza 9875-2024 | 26 April 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10526/contents/2045997> |
-| Ordenanza 9878-2024 | 26 April 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10526/contents/2046023> |
-| Ordenanza 9868-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2050757> |
-| Ordenanza 9869-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2052964> |
-| Ordenanza 9872-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2052970> |
-| Ordenanza 9880-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2052976> |
-| Ordenanza 9882-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2052980> |
-| Ordenanza 9890-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2053738> |
-| Ordenanza 9893-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2053746> |
-| Ordenanza 9894-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2053737> |
-| Ordenanza 9896-24 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2054359> |
-| Ordenanza 9897-2024 | 17 May 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10598/contents/2054390> |
-| Ordenanza 9815-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2070427> |
-| Ordenanza 9898-2024 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2067129> |
-| Ordenanza 9900-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2067137> |
-| Ordenanza 9901-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2067796> |
-| Ordenanza 9905-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2068326> |
-| Ordenanza 9906-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2068384> |
-| Ordenanza 9907-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2068386> |
-| Ordenanza 9909-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2069880> |
-| Ordenanza 9911-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2070282> |
-| Ordenanza 9913-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2070378> |
-| Ordenanza 9914-24 | 24 June 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2070394> |
-| Ordenanza 9922-24 | 3 July 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10907/contents/2074509> |
-| Ordenanza 9924-24 | 3 July 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10907/contents/2074662> |
-| Ordenanza 9925-24 | 3 July 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10907/contents/2074671> |
-| Ordenanza 9925-24 | 4 July 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10917/contents/2075091> |
-| Ordenanza 9944-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124647> |
-| Ordenanza 9945-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124656> |
-| Ordenanza 9946-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124687> |
-| Ordenanza 9947-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124688> |
-| Ordenanza 9949-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124691> |
-| Ordenanza 9951-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124706> |
-| Ordenanza 9953-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124708> |
-| Ordenanza 9954-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2124963> |
-| Ordenanza 9955-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2125235> |
-| Ordenanza 9956-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2125245> |
-| Ordenanza 9958-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2125275> |
-| Ordenanza 9959-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2125260> |
-| Ordenanza 9960-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2125257> |
-| Ordenanza 9961-24 | 22 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11547/contents/2125269> |
-| Ordenanza 9963-24 | 25 November 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11745/contents/2137992> |
-| Ordenanza 9964-24 | 25 November 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11745/contents/2137993> |
-| Ordenanza 9965-24 | 25 November 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11745/contents/2137994> |
-| Ordenanza 9966-24 | 25 November 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11745/contents/2137995> |
-| Ordenanza 10004-24 | 7 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12223/contents/2176148> |
-| Ordenanza 10078/2025 | 23 July 2025 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/13077/contents/2254286> |
-| Ordenanza 10094/2025 | 23 September 2025 | text only as a PDF annex | <https://sibom.slyt.gba.gob.ar/bulletins/13439/contents/2281057> |
-| Ordenanza 10121/25 | 10 December 2025 | text only as a PDF annex | <https://sibom.slyt.gba.gob.ar/bulletins/14017/contents/2321210> |
-| Ordenanza 10140/2025 | 23 December 2025 | text only as a PDF annex | <https://sibom.slyt.gba.gob.ar/bulletins/14153/contents/2328335> |
-| Ordenanza 10199/26 | 10 June 2026 | text only as a PDF annex | <https://sibom.slyt.gba.gob.ar/bulletins/15099/contents/2401756> |
+| Ordenanza 9925-24 | 4 July 2024 | same ordinance number appears in another publication; separate status under review | <https://sibom.slyt.gba.gob.ar/bulletins/10917/contents/2075091> |
+| Ordenanza 9815-24 | 24 June 2024 | same ordinance number appears in another publication; separate status under review | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2070427> |
+| Ordenanza 10140/2025 | 23 December 2025 | normative articles are outside the page text or absent from it; annex review pending | <https://sibom.slyt.gba.gob.ar/bulletins/14153/contents/2328335> |
+| Ordenanza 10128/25 | 10 December 2025 | normative articles are outside the page text or absent from it; annex review pending | <https://sibom.slyt.gba.gob.ar/bulletins/14017/contents/2321277> |
+| Ordenanza 9908-24 | 24 June 2024 | normative articles are outside the page text or absent from it; annex review pending | <https://sibom.slyt.gba.gob.ar/bulletins/10806/contents/2069879> |
+| Ordenanza 10199/26 | 10 June 2026 | normative articles are outside the page text or absent from it; annex review pending | <https://sibom.slyt.gba.gob.ar/bulletins/15099/contents/2401756> |
+| Ordenanza 10078/2025 | 23 July 2025 | same ordinance number appears in another publication; separate status under review | <https://sibom.slyt.gba.gob.ar/bulletins/13077/contents/2254286> |
+| Ordenanza 10121/25 | 10 December 2025 | normative articles are outside the page text or absent from it; annex review pending | <https://sibom.slyt.gba.gob.ar/bulletins/14017/contents/2321210> |
+| Ordenanza 10094/2025 | 23 September 2025 | normative articles are outside the page text or absent from it; annex review pending | <https://sibom.slyt.gba.gob.ar/bulletins/13439/contents/2281057> |

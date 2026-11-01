@@ -5,7 +5,7 @@
   "level": "municipality",
   "parent": "ar-b",
   "repo": "https://github.com/lexifina/argentina-pergamino-city-law",
-  "build": "built: municipal ordinances (151 ordinances, 151 versions) from https://sibom.slyt.gba.gob.ar/cities/95",
+  "build": "built: municipal ordinances (224 ordinances, 224 versions) from https://sibom.slyt.gba.gob.ar/cities/95",
   "language": "es",
   "sources": 1
 }
